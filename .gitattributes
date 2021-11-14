@@ -1,3 +1,0 @@
-*.CMake linguist-detectable=false
-*.cmake linguist-detectable=false
-*.make linguist-detectable=false
